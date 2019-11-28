@@ -111,9 +111,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF0066</string>
-				<key>fontStyle</key>
-				<string> bold</string>
+				<string>#6A73FC</string>
 			</dict>
 		</dict>
 		<dict>
